@@ -138,6 +138,6 @@ vepai-poc/
 
 - Add a FastAPI web interface for browser-based querying
 - Support additional VEP documentation pages (plugins, cache setup)
-- Implement conversation memory for multi-turn Q&A
+- Add conversation memory for multi-turn Q&A
 - Add VCF example parsing to ground answers in real variant data
 - Integrate with Ensembl REST API for live variant lookups
